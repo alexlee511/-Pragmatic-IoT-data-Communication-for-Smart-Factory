@@ -1,2 +1,2 @@
-# -Pragmatic-IoT-data-Communication-for-Smart-Factory
+# Pragmatic-IoT-data-Communication-for-Smart-Factory
 LoRa and LoRaWan application
